@@ -1,0 +1,1 @@
+ export const URL = 'https://wp.newborntoolkit.org/wp-json/nest360/v1/news'
